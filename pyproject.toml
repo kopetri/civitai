@@ -1,0 +1,21 @@
+[project]
+name = "civitai"
+version = "0.0.6"
+authors = [
+  { name="Sebastian Hartwig", email="sebastian@hartwig-bw.de" },
+]
+description = "A python wrapper for the civitai.com API"
+readme = "README.md"
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+dependencies = [
+    "requests>=2.31.0",
+]
+
+[project.urls]
+Homepage = "https://github.com/kopetri/civitai"
+Issues = "https://github.com/kopetri/civitai/issues"
