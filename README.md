@@ -2,6 +2,12 @@
 
 This is a small wrapper of the [civitai.com API](https://github.com/civitai/civitai/wiki/REST-API-Reference)
 
+## Install
+
+```
+pip install civitai
+```
+
 ## Usage Creators
 
 ```python
